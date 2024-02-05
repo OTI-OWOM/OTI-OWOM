@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OTI-OWOM
+- 👋 Hi, I’m @Ubani OTI-OWOM
 - 👀 I’m interested in Python, CSS, HTML, Java, Typescript, SQL
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Software Development Projects
